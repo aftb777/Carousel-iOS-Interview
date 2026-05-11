@@ -2,7 +2,6 @@
 //  Carousel_InterviewTests.swift
 //  Carousel InterviewTests
 //
-//  Created by Aftaab Mulla on 08/05/26.
 //
 
 import Testing

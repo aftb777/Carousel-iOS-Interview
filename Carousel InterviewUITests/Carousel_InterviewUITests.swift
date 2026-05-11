@@ -2,7 +2,6 @@
 //  Carousel_InterviewUITests.swift
 //  Carousel InterviewUITests
 //
-//  Created by Aftaab Mulla on 08/05/26.
 //
 
 import XCTest
